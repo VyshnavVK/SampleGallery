@@ -5,24 +5,33 @@
     android:clickable="true"
     android:focusable="true"
     >
-    <LinearLayout
+    <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
+
 <ImageView
     android:layout_width="match_parent"
-    android:layout_height="0dp"
+    android:layout_height="match_parent"
     android:adjustViewBounds="true"
     android:id="@+id/image"
-    android:layout_weight="1"
+    android:layout_marginBottom="10dp"
     />
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/name"
-        android:textColor="#fff"
-        android:text="name"
-        android:gravity="center"
-        />
-    </LinearLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/name"
+            android:textColor="@color/color_trans_white"
+            android:text="name"
+            android:gravity="center"
+            android:layout_centerHorizontal="true"
+            android:textSize="20sp"
+            android:fontFamily="sans-serif-light"
+            android:shadowColor="@color/black"
+            android:shadowRadius="10"
+            android:layout_marginBottom="10dp"
+            android:padding="10dp"
+            android:background="@color/color_trans_gray"
+            />
+    </RelativeLayout>
 </RelativeLayout>
