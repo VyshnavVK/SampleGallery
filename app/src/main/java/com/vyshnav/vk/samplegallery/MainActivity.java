@@ -46,7 +46,7 @@ FrameLayout empty_frame;
 
    public void LoadFiles(){
 
-
+       list.clear();
        final String[] columns = { MediaStore.Images.Media.DATA, MediaStore.Images.Media._ID };
        final String orderBy = MediaStore.Images.Media._ID;
 //Stores all the images from the gallery in Cursor
