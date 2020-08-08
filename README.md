@@ -1,4 +1,4 @@
-# simple Gallery
+# Simple Gallery
 
 This app is a image gallery app that used to display your images from your phone with minimun coding 
 
