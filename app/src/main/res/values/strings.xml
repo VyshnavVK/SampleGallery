@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sample Gallery</string>
+    <string name="give_permission_and_n_swipe_from_top_to_show_images">Give permission and \n swipe from top to show images</string>
+</resources>
