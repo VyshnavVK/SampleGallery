@@ -3,7 +3,7 @@
 This app is a image gallery app that used to display your images from your phone with minimun coding 
 
 ### Requrements:
-  1) android 4.1+ Jelly Bean device
+  1) android 4.1+ device
   2) some images from your phone
   (that's it)
   
