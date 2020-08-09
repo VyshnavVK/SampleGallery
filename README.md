@@ -12,7 +12,7 @@ This app is a image gallery app that used to display your images from your phone
   
 ### License
 
-Copyright 2020   VyshnavVk, Inc
+Copyright 2020 VyshnavVk, Inc
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
